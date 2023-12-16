@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zL6kAWgOI++X8kNIxXr7gOzdi8z9zRU1k3t4bnNwzVcZmZlcqVwk/yDpJN1e7Yk7ZMVpoJ0UBstRyz+AxRhWaA==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\VS_code\\C#\\Study\\QR\\QR\\QR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LIU\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\LIU\\.nuget\\packages\\qrcoder\\1.4.2\\qrcoder.1.4.2.nupkg.sha512",
+    "C:\\Users\\LIU\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
