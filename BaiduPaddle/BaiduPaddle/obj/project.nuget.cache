@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pn+cUS2u8r7My55YcOq5uW5eAu6TuW+U6pjesI2W1LCh5xH6SQtnteds4qOGO93T76FtrYPyOs/Zonwh13DRtw==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\VS_code\\C#\\Study\\BaiduPaddle\\BaiduPaddle\\BaiduPaddle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LIU\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\LIU\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\LIU\\.nuget\\packages\\opencvsharp4\\4.8.0.20230708\\opencvsharp4.4.8.0.20230708.nupkg.sha512",
+    "C:\\Users\\LIU\\.nuget\\packages\\paddleocrsharp\\4.0.2\\paddleocrsharp.4.0.2.nupkg.sha512",
+    "C:\\Users\\LIU\\.nuget\\packages\\sdcb.paddleinference\\2.5.0.1\\sdcb.paddleinference.2.5.0.1.nupkg.sha512",
+    "C:\\Users\\LIU\\.nuget\\packages\\sdcb.paddleocr\\2.7.0\\sdcb.paddleocr.2.7.0.nupkg.sha512",
+    "C:\\Users\\LIU\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\LIU\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\LIU\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
