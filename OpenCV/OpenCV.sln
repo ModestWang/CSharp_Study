@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenCV", "OpenCV\OpenCV.csproj", "{D400705E-95B3-4603-8D5D-3F5289DDCFC4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenCV_WPFApp", "OpenCV_WPFApp\OpenCV_WPFApp.csproj", "{6CC0157D-7D0C-4DD9-B5C8-B1CA400951DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenCV_WinForm", "OpenCV_WinForm\OpenCV_WinForm.csproj", "{5B63B405-961A-4801-921D-7F7F06FB5E3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D400705E-95B3-4603-8D5D-3F5289DDCFC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D400705E-95B3-4603-8D5D-3F5289DDCFC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D400705E-95B3-4603-8D5D-3F5289DDCFC4}.Debug|x64.ActiveCfg = Debug|x64
+		{D400705E-95B3-4603-8D5D-3F5289DDCFC4}.Debug|x64.Build.0 = Debug|x64
+		{D400705E-95B3-4603-8D5D-3F5289DDCFC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D400705E-95B3-4603-8D5D-3F5289DDCFC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D400705E-95B3-4603-8D5D-3F5289DDCFC4}.Release|x64.ActiveCfg = Release|x64
+		{D400705E-95B3-4603-8D5D-3F5289DDCFC4}.Release|x64.Build.0 = Release|x64
+		{6CC0157D-7D0C-4DD9-B5C8-B1CA400951DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CC0157D-7D0C-4DD9-B5C8-B1CA400951DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CC0157D-7D0C-4DD9-B5C8-B1CA400951DB}.Debug|x64.ActiveCfg = Debug|x64
+		{6CC0157D-7D0C-4DD9-B5C8-B1CA400951DB}.Debug|x64.Build.0 = Debug|x64
+		{6CC0157D-7D0C-4DD9-B5C8-B1CA400951DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CC0157D-7D0C-4DD9-B5C8-B1CA400951DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CC0157D-7D0C-4DD9-B5C8-B1CA400951DB}.Release|x64.ActiveCfg = Release|x64
+		{6CC0157D-7D0C-4DD9-B5C8-B1CA400951DB}.Release|x64.Build.0 = Release|x64
+		{5B63B405-961A-4801-921D-7F7F06FB5E3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B63B405-961A-4801-921D-7F7F06FB5E3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B63B405-961A-4801-921D-7F7F06FB5E3C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5B63B405-961A-4801-921D-7F7F06FB5E3C}.Debug|x64.Build.0 = Debug|Any CPU
+		{5B63B405-961A-4801-921D-7F7F06FB5E3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B63B405-961A-4801-921D-7F7F06FB5E3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B63B405-961A-4801-921D-7F7F06FB5E3C}.Release|x64.ActiveCfg = Release|Any CPU
+		{5B63B405-961A-4801-921D-7F7F06FB5E3C}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {208C44CA-EE03-4B66-BCAC-8224965C686A}
+	EndGlobalSection
+EndGlobal
