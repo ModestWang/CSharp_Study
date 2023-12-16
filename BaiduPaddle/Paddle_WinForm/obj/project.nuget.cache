@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dPtgGHstve2PXNDhPEnbcqbOYj6NBhXJDDycfdeBJjRRYZdSffTuPnl/Xhhl7cihRddS/FI31kACUlYo+yB5Sg==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\VS_code\\C#\\Study\\BaiduPaddle\\Paddle_WinForm\\Paddle_WinForm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LIU\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\LIU\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\LIU\\.nuget\\packages\\paddleocrsharp\\4.0.2\\paddleocrsharp.4.0.2.nupkg.sha512",
+    "C:\\Users\\LIU\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
