@@ -1,0 +1,14 @@
+D:\Code\VS_code\C#\Study\Machine_Learning\Machine_Learning\bin\Debug\net8.0\Machine_Learning.exe
+D:\Code\VS_code\C#\Study\Machine_Learning\Machine_Learning\bin\Debug\net8.0\Machine_Learning.deps.json
+D:\Code\VS_code\C#\Study\Machine_Learning\Machine_Learning\bin\Debug\net8.0\Machine_Learning.runtimeconfig.json
+D:\Code\VS_code\C#\Study\Machine_Learning\Machine_Learning\bin\Debug\net8.0\Machine_Learning.dll
+D:\Code\VS_code\C#\Study\Machine_Learning\Machine_Learning\bin\Debug\net8.0\Machine_Learning.pdb
+D:\Code\VS_code\C#\Study\Machine_Learning\Machine_Learning\obj\Debug\net8.0\Machine_Learning.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\VS_code\C#\Study\Machine_Learning\Machine_Learning\obj\Debug\net8.0\Machine_Learning.AssemblyInfoInputs.cache
+D:\Code\VS_code\C#\Study\Machine_Learning\Machine_Learning\obj\Debug\net8.0\Machine_Learning.AssemblyInfo.cs
+D:\Code\VS_code\C#\Study\Machine_Learning\Machine_Learning\obj\Debug\net8.0\Machine_Learning.csproj.CoreCompileInputs.cache
+D:\Code\VS_code\C#\Study\Machine_Learning\Machine_Learning\obj\Debug\net8.0\Machine_Learning.dll
+D:\Code\VS_code\C#\Study\Machine_Learning\Machine_Learning\obj\Debug\net8.0\refint\Machine_Learning.dll
+D:\Code\VS_code\C#\Study\Machine_Learning\Machine_Learning\obj\Debug\net8.0\Machine_Learning.pdb
+D:\Code\VS_code\C#\Study\Machine_Learning\Machine_Learning\obj\Debug\net8.0\Machine_Learning.genruntimeconfig.cache
+D:\Code\VS_code\C#\Study\Machine_Learning\Machine_Learning\obj\Debug\net8.0\ref\Machine_Learning.dll
